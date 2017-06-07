@@ -12,7 +12,6 @@ import torch.utils.data as data_utils
 
 learning_rate = 1e-3
 batch_size = 10
-epoches = 50
 
 traindataname = '/Users/ping/Downloads/sample-data-model_2016_11_29/traindata.th7'
 trainlabelname = '/Users/ping/Downloads/sample-data-model_2016_11_29/trainlabel.th7'
